@@ -27,7 +27,7 @@ To update your PATH without powershell (so it is easier to run Python scripts fr
 2. Select "Advanced System Settings" in the dialog box, and then "Environment Variables".
 3. Edit the PATH statement in the User Variables section to add:
 ```
-C:\Python27;C:\Python27\Lib\site-packages\;C:\Python27\Scripts\;
+C:\Python36;C:\Python36\Lib\site-packages\;C:\Python36\Scripts\;
 ```
 
 ### Alternate approach: use a virtual machine
