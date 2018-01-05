@@ -4,6 +4,6 @@ Follow the instructions carefully for completing the environement setup
 
 1. git clone https://github.com/ByteAcademyIn/Environment_Setup.git
 2. cd Environment_Setup
-3. ./environment_setup.sh
+3. ./environment_setup.sh FULL_STACK_WEB 
 
 You must see "Welcome to Byte Dev. Ready to Rock n Roll"
