@@ -41,7 +41,7 @@ if [ "$HOST_TYPE" = "Darwin" ]; then
     pip3 install ipython
     pip3 install xlrd
     pip3 install openpyxl
-    pip3 install ipython notebook
+    pip3 install jupyter
     
     if [ "$COURSE_TYPE" = "FULL_STACK_WEB" ]; then 
     	echo "Setting up development environment for Full Stack Web Development"
